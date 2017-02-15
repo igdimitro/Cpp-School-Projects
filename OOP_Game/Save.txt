@@ -1,0 +1,31 @@
+########################################
+#    #     M                           #
+#    #     ############  #######       #
+#    #  I  #             #  I  #       #
+#    #######  #########  #     #####M###
+#                     #  #     #  M    #
+#                     #  #  I     M  @ #
+#                     #  ###############
+#                       M              #
+#####################################E##
+3
+6shield 15secondaryWeapon 3 8 0 10 0
+12better sword 13primaryWeapon 3 28 10 0 0
+6boots  4feet 6 28 0 5 5
+5
+7Gundark 1 11 5 5 5 20
+7Banshee 6 34 10 5 0 15
+7Cyclops 4 36 10 10 10 35
+5Ghost 5 34 0 5 5 5
+7Centaur 8 24 10 5 5 50
+2
+5stick 13primaryWeapon 0 0 0 0 0
+10chestplate 5chest 6 38 0 10 0
+6 37 100
+3hat 4head 0 0 0
+7T-shirt 5chest 0 0 0
+5sword 13primaryWeapon 5 0 0
+14a Snickers bar 15secondaryWeapon 0 0 0
+5Jeans 4legs 0 0 0
+8Trainers 4feet 0 0 0
+2
